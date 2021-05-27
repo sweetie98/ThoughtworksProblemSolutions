@@ -1,5 +1,5 @@
 import java.util.*;
-public class CollatzProblem {
+public class CollatzSequence {
     public static void main(String args[]) {
       Scanner sc = new Scanner(System.in);
       System.out.println("Enter the sequence starting number");
