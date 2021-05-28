@@ -1,5 +1,5 @@
 import java.util.*;
-public class MyClass
+public class UpperTriangularMatrix
 {
         static boolean checkUpperTriangular(int matrix[][],int numOfRows)
         {
